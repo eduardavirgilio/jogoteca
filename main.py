@@ -32,6 +32,7 @@ if idade >= 18:
 
 else:
     print("você não tem permissão para jogar.")
+    exit()
 
 escolha = int(input("digite o numero de acordo com o jogo escolhido: "))
 
