@@ -4,7 +4,9 @@
 #if "__main__"
 
 from jogo_de_adivinhacao.jogo_mortal import *
-
+from jogo_da_velha.jogo_da_velha import*
+from tabuada.tabuada_calculo import *
+from jogo_da_forca.jogo_oficial import *
 
 import os 
 
@@ -36,3 +38,10 @@ escolha = int(input("digite o numero de acordo com o jogo escolhido: "))
 if escolha == 1 : #jogo da adivinhação
     os.system("cls")
     adivinhacao()
+
+if escolha == 2 : #jogo da forca
+    os.system("cls")
+    forca()
+
+
+
