@@ -43,5 +43,8 @@ if escolha == 2 : #jogo da forca
     os.system("cls")
     forca()
 
+if escolha == 3 : #jogo da tabuada
+    os.system("cls")
+    tabuada_mortal()
 
 
