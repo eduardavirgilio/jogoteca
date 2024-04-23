@@ -13,11 +13,6 @@ jogo_da_forca/manipulando_arquivos.py
 jogo_da_forca/presentes casamento.txt
 jogo_da_forca/series e filmes.txt
 jogo_da_velha/jogo da velha.docx
-jogo_de_adivinhacao/acerte o numero.py
-jogo_de_adivinhacao/adivinhacao.py
-jogo_de_adivinhacao/jogo mortal com vidas.py
-.gitignore
-jogo_de_adivinhacao/jogo mortal repetindo.py
-jogo_de_adivinhacao/jogo_mortal.py
+
 tabuada/calculadora.py
 tabuada/tabuada aleatoria.py
