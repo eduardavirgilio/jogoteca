@@ -1,6 +1,9 @@
 #### JOGOTECA ####
 # desenvolvido por: eduarda virgilio
 
+import os 
+
+os.system("cls")
 print()
 print("----------------------------------------")
 print("| seja bem-vinda(o) a SUPER ★ JOGOTECA |")
