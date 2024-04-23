@@ -47,4 +47,8 @@ if escolha == 3 : #jogo da tabuada
     os.system("cls")
     tabuada_mortal()
 
+if escolha == 4 : #jogo da velha
+    os.system("cls")
+    velha()
+
 
