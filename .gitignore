@@ -16,3 +16,12 @@ jogo_da_velha/jogo da velha.docx
 
 tabuada/calculadora.py
 tabuada/tabuada aleatoria.py
+
+pedra_papel_tesoura/__pycache__/jogo_real.cpython-311.pyc
+pedra_papel_tesoura/__pycache__/jogo_oficial.cpython-311.pyc
+.gitignore
+pedra_papel_tesoura/jogo_oficial.py
+pedra_papel_tesoura/escolha_aleatoria.txt
+pedra_papel_tesoura/__pycache__/funcoes_do_jogo.cpython-311.pyc
+pedra_papel_tesoura/jogo_oficial.py
+pedra_papel_tesoura/jogo_oficial.py
