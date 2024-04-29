@@ -52,3 +52,5 @@ def jogo_pedra ():
         print("você perdeu")
 
     print()
+
+    input("aperte enter para sair")

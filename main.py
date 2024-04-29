@@ -57,3 +57,5 @@ if escolha == 4 : #jogo da velha
 if escolha == 5 : #jogo do pedra papel tesoura
     os.system("cls")
     jogo_pedra()
+
+input("aperte enter para sair")

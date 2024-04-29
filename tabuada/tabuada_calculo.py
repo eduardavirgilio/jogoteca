@@ -20,3 +20,5 @@ def tabuada_mortal():
 
     if calculo != resultado :
         print("voce errou mona")
+
+input("aperte enter para sair")

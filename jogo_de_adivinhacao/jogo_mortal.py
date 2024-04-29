@@ -39,3 +39,4 @@ def adivinhacao():
     else:
         print("voce errou!")
 
+input("aperte enter para sair")
