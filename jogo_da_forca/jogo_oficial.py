@@ -79,4 +79,4 @@ def forca():
             print(f"você perdeu, a palavra era {palavra_secreta}")
             break
 
-input("aperte enter para sair")
+        input()

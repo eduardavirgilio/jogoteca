@@ -167,7 +167,7 @@ def velha():
             print("deu velha")
             break
 
-input("aperte enter para sair")
+        input()
     
 
 

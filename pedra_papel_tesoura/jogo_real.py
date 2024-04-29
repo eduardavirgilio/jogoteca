@@ -53,4 +53,4 @@ def jogo_pedra ():
 
     print()
 
-    input("aperte enter para sair")
+    input()
