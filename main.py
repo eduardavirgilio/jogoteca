@@ -11,18 +11,18 @@ from pedra_papel_tesoura.jogo_real import *
 
 import os 
 
+os.system("cls")
+print()
+print("----------------------------------------")
+print("| seja bem-vinda(o) a SUPER ★ JOGOTECA |")
+print("| aqui você encontrará jogos incriveis!|")
+print("----------------------------------------")
+
+print()
+
+idade = int(input("digite sua idade: "))
+
 while True:
-
-    os.system("cls")
-    print()
-    print("----------------------------------------")
-    print("| seja bem-vinda(o) a SUPER ★ JOGOTECA |")
-    print("| aqui você encontrará jogos incriveis!|")
-    print("----------------------------------------")
-
-    print()
-
-    idade = int(input("digite sua idade: "))
 
     if idade >= 18: 
         print("----------------------------------------")
