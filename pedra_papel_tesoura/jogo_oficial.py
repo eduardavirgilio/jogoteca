@@ -1,3 +1,7 @@
+from funcoes_do_jogo import *
+
+import random
+
 import os 
 
 os.system("cls")
@@ -10,3 +14,5 @@ print ()
 
 escolha = str(input("faça a sua jogada: "))
 
+gesto_aleatorio = escolhe_gesto (escolha)
+print (gesto_aleatorio)
