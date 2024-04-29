@@ -7,6 +7,7 @@ from jogo_de_adivinhacao.jogo_mortal import *
 from jogo_da_velha.jogo_da_velha import*
 from tabuada.tabuada_calculo import *
 from jogo_da_forca.jogo_oficial import *
+from pedra_papel_tesoura.jogo_real import *
 
 import os 
 
@@ -28,6 +29,7 @@ if idade >= 18:
     print("| 2. jogo da forca                     |")
     print("| 3. jogo da tabuada                   |")
     print("| 4. jogo da velha                     |")
+    print("| 5. jogo do pedra, papel e tesoura    |")
     print("----------------------------------------")
 
 else:
@@ -52,4 +54,6 @@ if escolha == 4 : #jogo da velha
     os.system("cls")
     velha()
 
-
+if escolha == 5 : #jogo do pedra papel tesoura
+    os.system("cls")
+    jogo_pedra()
